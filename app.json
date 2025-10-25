@@ -15,13 +15,13 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name",
       "required": false,
-      "value": "Mʀ-Sʜᴀʙᴀɴ"
+      "value": "Imran-Maani"
     }, 
 
     "OWNER_NUMBER": {
       "description": "Put Your WhatsApp Number Link Device",
       "required": false,
-      "value": "923059395959"
+      "value": "923303788282"
     }, 
     
     "MENU_IMAGE_URL": {
@@ -81,7 +81,7 @@
     "BOT_NAME": {
       "description": "Type Here The Bot Name",
       "required": false,
-      "value": "SHABAN-MD V5"
+      "value": "SHABAN-MD"
     },
     
     "ANTI_LINK": {
