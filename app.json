@@ -15,7 +15,7 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name",
       "required": false,
-      "value": "Imran-Maani"
+      "value": "𝐌𝐑 𝐒𝐇𝐀𝐁𝐀𝐍"
     }, 
 
     "OWNER_NUMBER": {
@@ -57,7 +57,7 @@
     "AUTO_STATUS_REACT": {
       "description": "Make It true For Automatic Status Reaction Or Like",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "AUTO_STATUS_REPLY": {
@@ -163,3 +163,4 @@
   ],
   "stack": "heroku-24"
   }
+    
