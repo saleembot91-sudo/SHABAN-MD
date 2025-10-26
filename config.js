@@ -27,7 +27,7 @@ MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://ik.imagekit.io/mrshaban/P
 // add custom menu and mention reply image url   
 BOT_NAME: process.env.BOT_NAME || "SHABAN-MD",
 // add bot namw here for menu
-STICKER_NAME: process.env.STICKER_NAME || "Powered By Mr Imran",
+STICKER_NAME: process.env.STICKER_NAME || "SHABAN-MD",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
@@ -35,7 +35,7 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️�
 // chose custom react emojis by yourself  
 OWNER_NUMBER: process.env.OWNER_NUMBER || "923303788282",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "Imran-Maani",
+OWNER_NAME: process.env.OWNER_NAME || "𝐌𝐑 𝐒𝐇𝐀𝐁𝐀𝐍",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Mʀ Sʜᴀʙᴀɴ*",
 // add bot owner name    
@@ -59,7 +59,7 @@ AUTO_TYPING: process.env.AUTO_TYPING || "false",
 // true for automatic show typing   
 READ_CMD: process.env.READ_CMD || "false",
 // true if want mark commands as read 
-DEV: process.env.DEV || "923059395959",
+DEV: process.env.DEV || "923303788282",
 //replace with your whatsapp number        
 ANTI_CALL: process.env.ANTI_CALL || "false",
 REJECT_MSG: process.env.REJECT_MSG || "*_SOORY MY BOSS IS BUSY PLEASE DONT CALL ME_*",
